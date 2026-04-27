@@ -101,4 +101,4 @@ ${o.total}: ${v.hours.toFixed(2)}h | ${o.total_pay}: $${v.pay.toFixed(2)}`,c.jsx
         @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
         .custom-scrollbar::-webkit-scrollbar { width: 4px; }
         .custom-scrollbar::-webkit-scrollbar-thumb { background: rgba(100,100,100,0.2); border-radius: 10px; }
-      `}})]})};Uh.createRoot(document.getElementById("root")).render(c.jsx(w.StrictMode,{children:c.jsx(ob,{children:c.jsx(Ay,{})})}));
+      `}})]})};Uh.createRoot(document.getElementById("root")).render(c.jsx(w.StrictMode,{children:c.jsx(ob,{basename:"/",children:c.jsx(Ay,{})})}));
